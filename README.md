@@ -1,2 +1,9 @@
 # node-ts-starter-kit
-Node + Typescript + Eslint + Prettier + Jest Starter Kit Template
+
+Starter Kit Nodejs / Typescript / Jest / Eslint / Prettier
+
+Airbnb style guide
+
+## Installation
+
+yarn install
