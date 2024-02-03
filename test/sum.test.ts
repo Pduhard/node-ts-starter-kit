@@ -1,6 +1,6 @@
 import { describe, expect, test } from "@jest/globals";
 
-import sum from "../src/sum";
+import sum from "app/sum";
 
 describe("sum module", () => {
   test("adds 1 + 2 to equal 3", () => {
